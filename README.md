@@ -4,8 +4,8 @@
 
 ![Status](https://img.shields.io/badge/Status-Predictive_Simulation-8b5cf6?style=for-the-badge)
 ![C++](https://img.shields.io/badge/C++-20_Core-00599C?style=for-the-badge&logo=c%2B%2B)
-![Rust](https://img.shields.io/badge/Rust-ZK_Circuits-000000?style=for-the-badge&logo=rust)
 ![Solidity](https://img.shields.io/badge/Solidity-EVM_Sidechain-363636?style=for-the-badge&logo=solidity)
+![Rust](https://img.shields.io/badge/Rust-ZK_Circuits-000000?style=for-the-badge&logo=rust)
 ![TypeScript](https://img.shields.io/badge/TypeScript-React_UI-3178C6?style=for-the-badge&logo=typescript)
 
 > **⚠️ DISCLAIMER: PURELY PREDICTIVE CONCEPTUAL PROJECT** > This repository contains **no leaked code, proprietary information, or actual Ripple infrastructure**. It is a purely predictive programming exercise designed to conceptualize and simulate the highly experimental mathematics, post-quantum cryptography, and Zero-Knowledge interoperability protocols anticipated for the XRP Ledger's enterprise roadmap in 2026.
