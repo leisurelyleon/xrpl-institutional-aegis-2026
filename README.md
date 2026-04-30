@@ -114,7 +114,7 @@ npm run dev
 ```
 
 ## 📊 Live Telemetry & Institutional Operations
-Once the boot_local_validator.ps1 script spins up the modified C++ daemon, the React Terminal will open a secure WebSocket connection. Traders can observe simulated high-frequency order flow on the XRPL native DEX. Initiating a cross-chain RLUSD transfer will visibly trigger the Rust ZK-Prover, synthesizing the PLONK cryptographic state over several seconds before dispatching the payload to the EVM sidechain contracts.
+Once the `boot_local_validator.ps1` script spins up the modified C++ daemon, the React Terminal will open a secure WebSocket connection. Traders can observe simulated high-frequency order flow on the XRPL native DEX. Initiating a cross-chain RLUSD transfer will visibly trigger the Rust ZK-Prover, synthesizing the PLONK cryptographic state over several seconds before dispatching the payload to the EVM sidechain contracts.
 
 ---
 
